@@ -1,0 +1,3 @@
+version=2
+
+https://bitbucket.org/lordmauve/pgzero/downloads .*/(\d\S*)\.tar\.gz

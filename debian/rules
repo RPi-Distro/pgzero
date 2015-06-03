@@ -1,0 +1,11 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+#export DH_VERBOSE=1
+
+export PYBUILD_NAME=pgzero
+export PYBUILD_DISABLE=test
+
+
+%:
+	dh $@ --with python3 --buildsystem=pybuild

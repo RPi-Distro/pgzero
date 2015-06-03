@@ -1,0 +1,17 @@
+pgzero (1.1-1) jessie; urgency=medium
+
+  * Upstream 1.1 release
+
+ -- Serge Schneider <serge@raspberrypi.org>  Wed, 04 Nov 2015 15:24:53 +0000
+
+pgzero (1.0.2-1) jessie; urgency=low
+
+  * Update to new upstream release
+
+ -- Serge Schneider <serge@raspberrypi.org>  Wed, 10 Jun 2015 17:54:47 +0100
+
+pgzero (1.0.1-1) jessie; urgency=low
+
+  * Initial release
+
+ -- Serge Schneider <serge@raspberrypi.org>  Wed, 03 Jun 2015 15:45:17 +0100
