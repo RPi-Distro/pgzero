@@ -1,0 +1,20 @@
+From 41a288a95cc7e79011513df01fa4258efcda7ce6 Mon Sep 17 00:00:00 2001
+From: Daniel Pope <mauve@mauveweb.co.uk>
+Date: Mon, 26 Feb 2018 09:09:11 +0000
+Subject: [PATCH] Fix missing README.txt when running setup.py
+
+---
+ setup.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+--- a/setup.py
++++ b/setup.py
+@@ -3,7 +3,7 @@
+ from setuptools import setup
+ import pgzero
+ 
+-path = os.path.join(os.path.dirname(__file__), 'README.txt')
++path = os.path.join(os.path.dirname(__file__), 'README.rst')
+ with open(path, encoding='utf8') as f:
+     LONG_DESCRIPTION = f.read()
+ 

@@ -1,3 +1,4 @@
-version=2
+version=4
 
-https://bitbucket.org/lordmauve/pgzero/downloads .*/(\d\S*)\.tar\.gz
+opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/pgzero-$1\.tar\.gz/ \
+  https://github.com/lordmauve/pgzero/releases .*/v?(\d\S+)\.tar\.gz

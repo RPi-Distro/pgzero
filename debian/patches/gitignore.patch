@@ -1,0 +1,8 @@
+--- a/.gitignore
++++ b/.gitignore
+@@ -8,3 +8,5 @@
+ *.egg-info
+ .DS_Store
+ examples_dev
++.pc/
++.pybuild/

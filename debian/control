@@ -2,10 +2,10 @@ Source: pgzero
 Section: python
 Priority: optional
 Maintainer: Serge Schneider <serge@raspberrypi.org>
-Build-Depends: debhelper (>= 8.0.0), debhelper (>= 9~), dh-python,
+Build-Depends: debhelper (>= 9~), dh-python,
  python-setuptools, python3-all, python3-setuptools
 Standards-Version: 3.9.6
-Homepage: https://bitbucket.org/lordmauve/pgzero
+Homepage: https://pygame-zero.readthedocs.io/en/stable/
 Vcs-Git: git://git@github.com:RPi-Distro/pgzero.git -b debian
 Vcs-Browser: https://github.com/RPi-Distro/pgzero
 X-Python3-Version: >= 3.2

@@ -1,0 +1,13 @@
+debhelper-build-stamp
+files
+*.log
+*.debhelper
+*.substvars
+python3-pgzero/
+
+        debian/files
+        debian/python3-pgzero.debhelper.log
+        debian/python3-pgzero.postinst.debhelper
+        debian/python3-pgzero.prerm.debhelper
+        debian/python3-pgzero.substvars
+        debian/python3-pgzero/

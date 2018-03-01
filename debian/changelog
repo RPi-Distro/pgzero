@@ -1,3 +1,9 @@
+pgzero (1.2.post1-1) stretch; urgency=medium
+
+  * New upstream release
+
+ -- Serge Schneider <serge@raspberrypi.org>  Thu, 01 Mar 2018 16:08:05 +0000
+
 pgzero (1.1-1) jessie; urgency=medium
 
   * Upstream 1.1 release
