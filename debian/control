@@ -4,14 +4,14 @@ Priority: optional
 Maintainer: Serge Schneider <serge@raspberrypi.org>
 Build-Depends: debhelper (>= 9~), dh-python,
  python-setuptools, python3-all, python3-setuptools
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Homepage: https://pygame-zero.readthedocs.io/en/stable/
 Vcs-Git: git://git@github.com:RPi-Distro/pgzero.git -b debian
 Vcs-Browser: https://github.com/RPi-Distro/pgzero
 X-Python3-Version: >= 3.2
 
 Package: python3-pgzero
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends}, ${python3:Depends}, python3-pygame, python3-pkg-resources
 Description: Zero-boilerplate games programming framework based on Pygame (Python 3)
  Pygame zero is intended for use in education, so that teachers can teach basic

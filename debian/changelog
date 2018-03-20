@@ -1,3 +1,10 @@
+pgzero (1.2.post1-2) stretch; urgency=medium
+
+  * Change package architecture to 'all'
+  * Bump Standards-Version to 3.9.8
+
+ -- Serge Schneider <serge@raspberrypi.org>  Tue, 20 Mar 2018 12:04:22 +0000
+
 pgzero (1.2.post1-1) stretch; urgency=medium
 
   * New upstream release
