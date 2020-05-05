@@ -7,6 +7,7 @@ pgzero (1.2.post1-3) UNRELEASED; urgency=medium
   * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
     Repository-Browse.
   * Use secure URI in Vcs control header Vcs-Git.
+  * Fix broken Vcs URL.
 
  -- Debian Janitor <janitor@jelmer.uk>  Tue, 05 May 2020 05:27:35 +0000
 
