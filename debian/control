@@ -2,7 +2,7 @@ Source: pgzero
 Section: python
 Priority: optional
 Maintainer: Serge Schneider <serge@raspberrypi.org>
-Build-Depends: debhelper (>= 13~), dh-python,
+Build-Depends: debhelper-compat (= 13), dh-python,
  python-setuptools, python3-all, python3-setuptools
 Standards-Version: 3.9.8
 Homepage: https://pygame-zero.readthedocs.io/en/stable/
