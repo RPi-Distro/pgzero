@@ -6,6 +6,7 @@ pgzero (1.2.post1-3) UNRELEASED; urgency=medium
   * Set debhelper-compat version in Build-Depends.
   * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
     Repository-Browse.
+  * Use secure URI in Vcs control header Vcs-Git.
 
  -- Debian Janitor <janitor@jelmer.uk>  Tue, 01 Mar 2022 20:40:29 -0000
 

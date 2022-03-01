@@ -6,7 +6,7 @@ Build-Depends: debhelper-compat (= 13), dh-python,
  python-setuptools, python3-all, python3-setuptools
 Standards-Version: 3.9.8
 Homepage: https://pygame-zero.readthedocs.io/en/stable/
-Vcs-Git: git://git@github.com:RPi-Distro/pgzero.git -b debian
+Vcs-Git: https://git@github.com:RPi-Distro/pgzero.git -b debian
 Vcs-Browser: https://github.com/RPi-Distro/pgzero
 
 Package: python3-pgzero
