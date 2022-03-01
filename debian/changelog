@@ -4,6 +4,8 @@ pgzero (1.2.post1-3) UNRELEASED; urgency=medium
   * Remove unnecessary X-Python{,3}-Version field in debian/control.
   * Bump debhelper from deprecated 9 to 13.
   * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
 
  -- Debian Janitor <janitor@jelmer.uk>  Tue, 01 Mar 2022 20:40:29 -0000
 
