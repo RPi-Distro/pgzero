@@ -1,3 +1,9 @@
+pgzero (1.2.post1-3) UNRELEASED; urgency=medium
+
+  * Use secure copyright file specification URI.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Tue, 01 Mar 2022 20:40:29 -0000
+
 pgzero (1.2.post1-2) stretch; urgency=medium
 
   * Change package architecture to 'all'
