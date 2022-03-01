@@ -1,6 +1,7 @@
 pgzero (1.2.post1-3) UNRELEASED; urgency=medium
 
   * Use secure copyright file specification URI.
+  * Remove unnecessary X-Python{,3}-Version field in debian/control.
 
  -- Debian Janitor <janitor@jelmer.uk>  Tue, 01 Mar 2022 20:40:29 -0000
 

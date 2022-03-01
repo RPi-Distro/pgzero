@@ -8,7 +8,6 @@ Standards-Version: 3.9.8
 Homepage: https://pygame-zero.readthedocs.io/en/stable/
 Vcs-Git: git://git@github.com:RPi-Distro/pgzero.git -b debian
 Vcs-Browser: https://github.com/RPi-Distro/pgzero
-X-Python3-Version: >= 3.2
 
 Package: python3-pgzero
 Architecture: all
